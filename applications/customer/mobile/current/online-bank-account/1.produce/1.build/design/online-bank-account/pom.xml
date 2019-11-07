@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.fabric360.acme.apps.customer.mobile</groupId>
-	<artifactId>online-bank-account</artifactId>
-    <version>1.0.0-produce-build-arch</version>
+	<artifactId>online-bank-account-produce-build-design</artifactId>
+    <version>1.0.0-produce-build-design</version>
     <packaging>mule-application</packaging>
 
-	<name>online-bank-account</name>
+	<name>online-bank-account-produce-build-design</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
